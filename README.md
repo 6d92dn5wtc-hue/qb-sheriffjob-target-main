@@ -9,7 +9,7 @@ Edited Version Of qb-policejob | qb-sheriffjob for QB-Core Framework with QB-Tar
 
 It Works with both sasp and police job
 
-# License
+# Licensef
 
     QBCore Framework
     Copyright (C) 2021 Joshua Eger
@@ -35,7 +35,7 @@ It Works with both sasp and police job
 - [qb-phone](https://github.com/qbcore-framework/qb-phone) - For the MEOS app and notifications etc.
 - [qb-log](https://github.com/qbcore-framework/qb-logs) - For logging certain events
 - [qb-menu](https://github.com/qbcore-framework/qb-menu) - For the vehicle menus
-- [qb-input](https://github.com/qbcore-framework/qb-input) - For accessing evidence stashes
+- [qb-input](//github.com/qbcore-framework/qb-input) - For accessing evidence stashes
 
 
 ## Screenshots
